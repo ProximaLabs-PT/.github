@@ -1,4 +1,4 @@
-# 🌐 RGA
+# 🌐 ProximaLabs
 
 🚀 **Apoiamos pequenos negócios a dar o salto para o digital.**  
 Criamos soluções personalizadas como **websites, aplicações e sistemas de gestão**, ajudando empresas locais a crescer e a aproximarem-se dos seus clientes.
