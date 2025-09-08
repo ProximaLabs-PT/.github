@@ -22,11 +22,7 @@ Criamos soluções personalizadas como **websites, aplicações e sistemas de ge
 ---
 
 ## 📂 Projetos
-🔹 [Projeto 1 – Nome da App/Sistema]  
-Descrição curta do que faz e para quem.  
-
-🔹 [Projeto 2 – Nome da App/Sistema]  
-Descrição curta do que faz e para quem.  
+🔹 [Projeto 1 – EM DESENVOLVIMENTO]  
 
 
 ---
@@ -35,13 +31,13 @@ Descrição curta do que faz e para quem.
 
 <p align="center">
   <a href="https://github.com/afonso-sgb">
-    <img src="https://github.com/afonso-sgb.png?size=120" width="120" style="border-radius:50%" alt="Nome 1"/>
+    <img src="https://github.com/afonso-sgb.png?size=120" width="120" style="border-radius:50%" alt="Afonso Bento"/>
   </a>
   <a href="https://github.com/diogorosa2420">
-    <img src="https://github.com/diogorosa2420.png?size=120" width="120" style="border-radius:50%" alt="Nome 2"/>
+    <img src="https://github.com/diogorosa2420.png?size=120" width="120" style="border-radius:50%" alt="Diogo Rosa"/>
   </a>
   <a href="https://github.com/GuilhermeFilipeSoldadoLopes">
-    <img src="https://github.com/GuilhermeFilipeSoldadoLopes.png?size=120" width="120" style="border-radius:50%" alt="Nome 3"/>
+    <img src="https://github.com/GuilhermeFilipeSoldadoLopes.png?size=120" width="120" style="border-radius:50%" alt="Guilherme Lopes"/>
   </a>
 </p>
 
