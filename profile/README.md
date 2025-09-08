@@ -8,7 +8,6 @@ Criamos soluções personalizadas como **websites, aplicações e sistemas de ge
 ## 💡 O que fazemos
 - 📱 **Aplicações móveis e web** para divulgação e gestão de negócios  
 - 🗓️ **Sistemas de marcação de serviços** para salões, clínicas, ginásios e outros serviços locais  
-- 🛒 **Lojas online e catálogos digitais** para pequenas lojas e artesãos  
 - 📊 **Dashboards e relatórios** para apoiar a tomada de decisão dos empreendedores  
 
 ---
