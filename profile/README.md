@@ -50,8 +50,8 @@ Criamos soluções personalizadas como **websites, aplicações e sistemas de ge
 
 
 ## 📬 Contacto
-- ✉️ Email: [rga@exemplo.com]  
-- 🌍 Site: [www.rga.com]  
+- ✉️ Email: [proximalabs@exemplo.com]  
+- 🌍 Site: [www.proximalabs.pt]  
 - 📱 Redes sociais: [LinkedIn/Instagram/etc]
   
 ---
