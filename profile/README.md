@@ -16,10 +16,30 @@ Criamos soluções personalizadas como **websites, aplicações e sistemas de ge
 ---
 
 ## 🛠️ Tecnologias que utilizamos
-- **Frontend & Mobile:** Flutter, React, Svetle, Bootstrap  
-- **Backend:** .NET, Node.js, Firebase  
-- **Base de dados:** MongoDB, SQLServer, Firebase Firestore  
-- **Infraestrutura & Deploy:** Azure, Vercel, Docker  
+- Frontend & Mobile
+**Frameworks e Bibliotecas:** Flutter, React, React Native, Svelte, Angular, Vue.js
+**Linguagens e Tipagem:** TypeScript, JavaScript, Dart, HTML5, CSS3
+**UI e Estilo:** Bootstrap, Tailwind CSS
+
+- Backend
+**Linguagens e Frameworks:** .NET, Node.js Express.js, Django
+**APIs e Comunicação:** REST, GraphQL, WebSockets
+**Autenticação & Segurança:** OAuth2, JWT, OpenID Connect, Passport.js, Firebase Auth
+
+- Banco de Dados
+**Relacionais (SQL):** SQL Server, MySQL, PostgreSQL, Oracle
+**Não Relacionais (NoSQL):** MongoDB, Firebase
+**Ferramentas de Migração & ORM:** Entity Framework (.NET), Sequelize, TypeORM, Prisma, SQLAlchemy
+
+- Servidores e Plataformas
+**Servidores Web:** Nginx, Apache
+**Cloud / Infraestrutura:** AWS, Google Cloud, Azure
+**CDN & Cache:** Cloudflare, AWS CloudFront
+
+- Infraestrutura & Deploy:
+**Contêineres e Orquestração:** Docker, Kubernetes
+**Plataformas de Deploy:** Vercel, Azure DevOps
+**Automação e CI/CD:** GitHub Actions, Jenkins, Terraform, Ansible
 
 ---
 
