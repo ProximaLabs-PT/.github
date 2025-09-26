@@ -1,4 +1,21 @@
 # 🌐 ProximaLabs
+
+<div align="center">  
+
+## 📚 Índice / Table of Contents
+| Português | English |
+|---------------|------------|
+| [💡 O que fazemos](#o-que-fazemos) | [💡 What we do](#what-we-do) |
+| [🛠 Tecnologias que utilizamos](#tecnologias-que-utilizamos) | [🛠 Technologies we use](#technologies-we-use) |
+| [📂 Projetos](#projetos) | [📂 Projects](#projects) |
+| [👥 Equipa](#equipa) | [👥 Team](#team) |
+| [📬 Contacto](#contacto) | [📬 Contact](#contact) |
+
+</div>
+
+
+<br/>
+
 ## 🇵🇹 Português
 ## “Do local ao digital, fazemos o teu negócio crescer.”
 
@@ -103,14 +120,14 @@ We create customized solutions such as **websites, applications, and management 
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos/Projects
 🔹 [Projeto 1 – EM DESENVOLVIMENTO]  
 
 <br/>
 
 ---
 
-## 👥 Equipa
+## 👥 Equipa/Team
 
 <p align="center">
   <a href="https://github.com/afonso-sgb">
@@ -132,7 +149,7 @@ We create customized solutions such as **websites, applications, and management 
 
 ---
 
-## 📬 Contacto
+## 📬 Contactos/Contacts
 - ✉️ Email: [proximalabs@exemplo.com]  
 - 🌍 Site: [www.proximalabs.pt]  
 - 📱 Social media: [LinkedIn/Instagram/etc]
