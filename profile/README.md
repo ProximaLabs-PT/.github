@@ -13,6 +13,21 @@
 
 </div>
 
+## 📚 Índice / Table of Contents
+### Português
+- [💡 O que fazemos](#💡-o-que-fazemos)
+- [🛠️ Tecnologias que utilizamos](#🛠️-tecnologias-que-utilizamos)
+- [📂 Projetos](#📂-projetosprojects)
+- [👥 Equipa](#👥-equipateam)
+- [📬 Contacto](#📬-contactoscontacts)
+
+### English
+- [💡 What we do](#💡-what-we-do)
+- [🛠️ Technologies we use](#🛠️-technologies-we-use)
+- [📂 Projects](#📂-projetosprojects)
+- [👥 Team](#👥-equipateam)
+- [📬 Contact](#📬-contactoscontacts)
+
 
 <br/>
 
